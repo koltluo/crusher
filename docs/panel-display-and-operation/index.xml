@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global Expert in Mining Crushing and Electrical Control – 第四章 面板显示与操作</title>
+    <title>Global Expert in Mining Crushing and Electrical Control – Chapter 4 Panel Display and Operation</title>
     <link>https://www.senkuogroup.com/docs/panel-display-and-operation/</link>
-    <description>Recent content in 第四章 面板显示与操作 on Global Expert in Mining Crushing and Electrical Control</description>
+    <description>Recent content in Chapter 4 Panel Display and Operation on Global Expert in Mining Crushing and Electrical Control</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>4.1 显示界面介绍</title>
+      <title>4.1 Display Interface Introduction</title>
       <link>https://www.senkuogroup.com/docs/panel-display-and-operation/display-interface-introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -23,176 +23,179 @@
       <description>
         
         
-        &lt;p&gt;用操作面板，可对变频器进行功能参数修改，变频器工作状态监控和变频器进行启动、停止等操作，其外形及功能区如下图所示:
+        &lt;p&gt;The operational panel allows for functional parameter modification of the variable frequency drive (VFD), monitoring its operational status, and performing operations such as start and stop. Its appearance and functional areas are depicted in the following figure:
 &lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/cmb.jpg&#34; title=&#34;C系列变频器操作面板示意图&#34; alt=&#34;C系列变频器操作面板示意图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;C系列变频器操作面板示意图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/cmb.jpg&#34; title=&#34;Diagram of the Operational Panel of C Series Variable Frequency Drives&#34; alt=&#34;Diagram of the Operational Panel of C Series Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Diagram of the Operational Panel of C Series Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;h2&gt;C系列变频器操作面板指示灯及按键功能&lt;span class=&#34;absolute -mt-20&#34; id=&#34;c系列变频器操作面板指示灯及按键功能&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#c%e7%b3%bb%e5%88%97%e5%8f%98%e9%a2%91%e5%99%a8%e6%93%8d%e4%bd%9c%e9%9d%a2%e6%9d%bf%e6%8c%87%e7%a4%ba%e7%81%af%e5%8f%8a%e6%8c%89%e9%94%ae%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;h2&gt;Functional Indicators and Buttons on the Operational Panel of C Series Variable Frequency Drives&lt;span class=&#34;absolute -mt-20&#34; id=&#34;functional-indicators-and-buttons-on-the-operational-panel-of-c-series-variable-frequency-drives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#functional-indicators-and-buttons-on-the-operational-panel-of-c-series-variable-frequency-drives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;按键符号&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;功能说明&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Symbol&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Function Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PRG&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;编程键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;菜单进入或退出，参数修改&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Program Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Enter or exit menu, modify parameters&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ENTER&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;确定键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;选择参数修改移位及显示内容&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Enter Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Select parameter modification, shift, and display content&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;🔼&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;递增键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数据或功能码的递增&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Increment Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Increment data or function code&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;🔽&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;递减键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数据或功能码的递减&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Decrement Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Decrement data or function code&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;▶️&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;移位键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;根据功能切换选择&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Shift Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Switch selection based on function&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;RUN&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;运行键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;进入菜单，确认参数设置&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Run Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Enter menu, confirm parameter settings&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;STOP/RESET&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;停止/复位键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;键盘操作方式下运行操作&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Stop/Reset Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Run operations in keyboard operation mode&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;FUNC&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多功能快捷键&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;点动&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-function Shortcut Key&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Jogging&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;REV&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;变频器反转指示灯，灯亮时表示反转运行状态&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Inverter reverse indicator light, lit when in reverse operation status&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;FWD&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;变频器正转指示灯，灯亮时表示正转运行状态&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Inverter forward indicator light, lit when in forward operation status&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ALM&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;变频器故障指示灯，灯亮时表示处于故障状态&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Inverter fault indicator light, lit when in fault status&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;Hz&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;频率单位&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Frequency unit&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;A&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;电流单位&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Current unit&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;V&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;电压单位&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Indicator Light&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Voltage unit&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/hmb.jpg&#34; title=&#34;H系列变频器操作面板示意图&#34; alt=&#34;H系列变频器操作面板示意图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;H系列变频器操作面板示意图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/hmb.jpg&#34; title=&#34;Diagram of the Operational Panel of H Series Variable Frequency Drives&#34; alt=&#34;Diagram of the Operational Panel of H Series Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Diagram of the Operational Panel of H Series Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;h2&gt;H系列变频器操作面板指示灯及按键功能&lt;span class=&#34;absolute -mt-20&#34; id=&#34;h系列变频器操作面板指示灯及按键功能&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#h%e7%b3%bb%e5%88%97%e5%8f%98%e9%a2%91%e5%99%a8%e6%93%8d%e4%bd%9c%e9%9d%a2%e6%9d%bf%e6%8c%87%e7%a4%ba%e7%81%af%e5%8f%8a%e6%8c%89%e9%94%ae%e5%8a%9f%e8%83%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;h2&gt;Functional Indicators and Buttons on the Operational Panel of H Series Variable Frequency Drives&lt;span class=&#34;absolute -mt-20&#34; id=&#34;functional-indicators-and-buttons-on-the-operational-panel-of-h-series-variable-frequency-drives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#functional-indicators-and-buttons-on-the-operational-panel-of-h-series-variable-frequency-drives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;功能说明&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Function Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;单位指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;Hz：频率单位；A：电流单位；V：电压单位；&lt;/br&gt;RMP(Hz+A)：转速单位；%(A+V) ：百分数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unit Indicator Lights&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Hz: Frequency unit; A: Current unit; V: Voltage unit;&lt;/br&gt;RMP(Hz+A): Speed unit; %(A+V): Percentage&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;状态指示灯&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;RUN：亮/运行；灭/停止；&lt;/br&gt;FWD/REV：亮/正转；灭/反转；闪烁/正反转切换中；&lt;/br&gt;TUNE/TC：慢闪/调谐状态；快闪/通讯状态；慢闪约1次/秒；快闪约2次/秒&lt;/br&gt;LOCAL/REMOTE：亮/端子控制；闪烁/通讯控制；灭/键盘控制。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Status Indicator Lights&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;RUN: On/Running; Off/Stopped;&lt;/br&gt;FWD/REV: On/Forward; Off/Reverse; Flashing/Transitioning between forward and reverse;&lt;/br&gt;TUNE/TC: Slow Flashing/Tuning mode; Fast Flashing/Communication mode; Slow flash about once per second; Fast flash about twice per second;&lt;/br&gt;LOCAL/REMOTE: On/Terminal control; Flashing/Communication control; Off/Keyboard control.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;PRG（编程键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;一级菜单进入或退出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PRG (Program Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Enter or exit primary menu&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;ENTER（确定键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;逐级进入菜单画面、设定参数确认&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ENTER (Enter Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Navigate through menu screens, confirm parameter settings&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;🔼（递增键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;数据或功能码的递增&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;🔼 (Increment Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Increment data or function code&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;🔽（递减键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;数据或功能码的递减&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;🔽 (Decrement Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Decrement data or function code&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;▶️ （移位键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;在停机显示界面和运行显示界面下，可循环选择显示参数；在修改参数时，可以选择参数的修改位。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;▶️ (Shift Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;In stop display and run display modes, cyclically select displayed parameters; when modifying parameters, select the parameter modification bit.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;RUN（运行键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;在键盘操作方式下，用于运行操作。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RUN (Run Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Used for running operations in keyboard operation mode.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;STOP/RESET（停止/复位键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;运行状态时，按此键可用于停止运行操作；故障报警状态时，可用来复位操作，该键的特性受功能码F7.02制约。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;STOP/RESET (Stop/Reset Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;In run state, press to stop running operations; in fault alarm state, use to reset operations, characteristics of this key are constrained by function code F7.02.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;MF.K（多功能快捷键）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;根据F7.01作功能切换选择。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;MF.K (Multi-function Shortcut Key)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Function selection switch based on F7.01.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;旋钮（脉冲电位器）&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;可以作为频率给定源。当设置变频器采用此旋钮为频率源时，顺时针旋转为增加给定，逆时针旋转为减少给定。&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Knob (Pulse Potentiometer)&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Can be used as frequency setting source. When set as frequency source for the inverter, clockwise rotation increases the setting, counterclockwise rotation decreases the setting.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;变频器功能码查看、修改方法说明&lt;span class=&#34;absolute -mt-20&#34; id=&#34;变频器功能码查看修改方法说明&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%e5%8f%98%e9%a2%91%e5%99%a8%e5%8a%9f%e8%83%bd%e7%a0%81%e6%9f%a5%e7%9c%8b%e4%bf%ae%e6%94%b9%e6%96%b9%e6%b3%95%e8%af%b4%e6%98%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;变频器的操作面板采用三级菜单结构进行参数设置等操作。三级菜单分别为：功能参数级(一级菜单)→功能码（二级菜单）→功能码设定值（三级菜单）。操作流程如下图所示：
+&lt;h2&gt;Explanation of Viewing and Modifying Function Codes on the Variable Frequency Drive&lt;span class=&#34;absolute -mt-20&#34; id=&#34;explanation-of-viewing-and-modifying-function-codes-on-the-variable-frequency-drive&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#explanation-of-viewing-and-modifying-function-codes-on-the-variable-frequency-drive&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The operational panel of the variable frequency drive uses a three-level menu structure for parameter settings and other operations. The three levels of menus are: function parameter level (primary menu) → function code (secondary menu) → function code setting value (tertiary menu). The operation process is depicted in the following figure:
 &lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/lct.jpg&#34; title=&#34;变频器三级菜单操作流程图&#34; alt=&#34;变频器三级菜单操作流程图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;变频器三级菜单操作流程图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/lct.jpg&#34; title=&#34;Diagram of Operation Process of Variable Frequency Drive&amp;#39;s Three-level Menu&#34; alt=&#34;Diagram of Operation Process of Variable Frequency Drive&amp;rsquo;s Three-level Menu&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Diagram of Operation Process of Variable Frequency Drive&amp;#39;s Three-level Menu&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;说明：在三级菜单操作时，可按PRG（编程）键或ENTER(确认)键返回二级菜单。两者的区别是：按ENTER(确认)键将设定参数保存后返回二级菜单，并自动转移到下一个功能码；而按PRG(编程)键则直接返回二级菜单，不存储参数，并返回到当前功能码。&lt;br&gt;
-举例：将功能码P3-02从10.00Hz更改为15.00Hz的示例。（粗体字表示闪烁位）
+&lt;p&gt;Note: When operating in the tertiary menu, pressing the PRG (programming) key or ENTER (confirm) key will return to the secondary menu. The difference between the two is: pressing the ENTER (confirm) key will save the parameter settings and return to the secondary menu, automatically moving to the next function code; pressing the PRG (programming) key will directly return to the secondary menu without storing parameters and return to the current function code.
+Example: Changing function code P3-02 from 10.00Hz to 15.00Hz. (Bold indicates blinking bit)
 &lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jl.jpg&#34; title=&#34;变频器三级菜单参数设置举例&#34; alt=&#34;变频器三级菜单参数设置举例&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;变频器三级菜单参数设置举例&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jl.jpg&#34; title=&#34;Example of Setting Parameters in the Three-level Menu of the Variable Frequency Drive&#34; alt=&#34;Example of Setting Parameters in the Three-level Menu of the Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Example of Setting Parameters in the Three-level Menu of the Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;在第三级菜单状态下，若参数没有闪烁位，表示该功能码不能修改，可能原因有：&lt;br&gt;
-1.该功能码为不可修改参数。如实际检测参数、运行记录参数。&lt;br&gt;
-2.该功能码在运行状态下不可修改，需停机后才能进行修改。&lt;/p&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+&lt;p&gt;In the tertiary menu state, if parameters do not have a blinking bit, it indicates that the function code cannot be modified. Possible reasons include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The function code is a non-modifiable parameter. Such as actual detection parameters, running record parameters.&lt;/li&gt;
+&lt;li&gt;The function code cannot be modified in the running state and needs to be stopped before modification.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -200,7 +203,7 @@
     </item>
     
     <item>
-      <title>4.2 端子应用接线图</title>
+      <title>4.2 Terminal Application Wiring Diagram</title>
       <link>https://www.senkuogroup.com/docs/panel-display-and-operation/terminal-application-wiring-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -208,115 +211,114 @@
       <description>
         
         
-        &lt;h2&gt;0.75~37KW变频器接线图&lt;span class=&#34;absolute -mt-20&#34; id=&#34;07537kw变频器接线图&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#07537kw%e5%8f%98%e9%a2%91%e5%99%a8%e6%8e%a5%e7%ba%bf%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt1.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接电位器接线图&#34; alt=&#34;SKF8000系列矢量变频器外接电位器接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接电位器接线图&lt;/figcaption&gt;
+        &lt;h2&gt;Wiring Diagram for 0.75~37KW Variable Frequency Drives&lt;span class=&#34;absolute -mt-20&#34; id=&#34;wiring-diagram-for-07537kw-variable-frequency-drives&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#wiring-diagram-for-07537kw-variable-frequency-drives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt1.jpg&#34; title=&#34;Wiring Diagram for External Potentiometer Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External Potentiometer Connection of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External Potentiometer Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt2.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接按钮启动停止接线图&#34; alt=&#34;SKF8000系列矢量变频器外接按钮启动停止接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接按钮启动停止接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt2.jpg&#34; title=&#34;Wiring Diagram for External Button Start/Stop Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External Button Start/Stop Connection of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External Button Start/Stop Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：按下绿色按钮，变频器启动；按下红色停止按钮，变频器停止；&lt;br&gt;
-变频器参数设置：P0-02=1;P4-02=3;P4-11=2&lt;/p&gt;
+Explanation: Press the green button to start the VFD; press the red stop button to stop the VFD;&lt;br&gt;
+VFD parameter settings: P0-02=1; P4-02=3; P4-11=2&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt3.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接三档旋钮开关正反转接线图&#34; alt=&#34;SKF8000系列矢量变频器外接三档开关正反转接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接三档旋钮开关正反转接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt3.jpg&#34; title=&#34;Wiring Diagram for External Three-gear Switch Forward/Reverse Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External Three-gear Switch Forward/Reverse Connection of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External Three-gear Switch Forward/Reverse Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：三档两常开旋钮，打到左边电机正转，打到中间电机停止，打到右边电机反转。&lt;br&gt;
-变频器参数设置：P0-02=1&lt;/p&gt;
+Explanation: Three-gear two normally open knobs, turned to the left for motor forward, turned to the middle for motor stop, turned to the right for motor reverse.&lt;br&gt;
+VFD parameter settings: P0-02=1&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt4.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接通断信号接线图&#34; alt=&#34;SKF8000系列矢量变频器外接通断信号接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接通断信号接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt4.jpg&#34; title=&#34;Wiring Diagram for External On/Off Signal Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External On/Off Signal Connection of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External On/Off Signal Connection of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：X1端子和COM端子接通变频器启动；X1端子和COM端子断开变频器停止；来电直启，断电停机，直接COM和X1短接。&lt;br&gt;
-变频器参数设置：P0-02=1&lt;/p&gt;
+Explanation: Connect X1 terminal and COM terminal to start the VFD; Disconnect X1 terminal and COM terminal to stop the VFD; Direct power-on, power-off, directly short COM and X1.&lt;br&gt;
+VFD parameter settings: P0-02=1&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt5.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接远传压力表-简单恒压供水接线图&#34; alt=&#34;SKF8000系列矢量变频器外接远传压力表-简单恒压供水接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接远传压力表-简单恒压供水接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt5.jpg&#34; title=&#34;Wiring Diagram for External Remote Pressure Transmitter Connection - Simple Constant Pressure Water Supply of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External Remote Pressure Transmitter Connection - Simple Constant Pressure Water Supply of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External Remote Pressure Transmitter Connection - Simple Constant Pressure Water Supply of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：变频器作为供水系统的核心，能够实时监测水压变化，并根据需求智能调节水泵的转速。当多个用户同时使用水源时，变频器会自动增加水泵的输出功率，保持稳定的水压；而在使用较小的水流量时，变频器则会降低水泵的输出功率，避免过高的水压。&lt;br&gt;
-变频器参数设置：P0-29=00001，b0-00=压力表量程，b0-01=设定压力，b0-02=睡眠压力，b0-03=唤醒压力;&lt;br&gt;
-举例：如远传压力表量程为1MPA，b0-00=10，如量程为1.6MPA，b0-00=16。&lt;br&gt;
-上行显示设定压力，下行显示压力表反馈压力。改变设定压力通过面板增加🔼/减少🔽键调整，显示压力单位为公斤。上行可通过▶️键切换显示母线电压，电流，频率，设定压力，反馈压力。&lt;br&gt;
-🌟备注1：以上设置为P0-29=00001后默认外部端子运行，如需面板启动，要设置P0-02=0。&lt;br&gt;
-🌟备注2：b0-02和b0-03设置是相对b0-01的百分比。&lt;/p&gt;
+Explanation: The VFD serves as the core of the water supply system, able to monitor water pressure changes in real time and intelligently adjust the pump speed according to demand. When multiple users are using the water source simultaneously, the VFD will automatically increase the pump&amp;rsquo;s output power to maintain stable water pressure; while using smaller water flow rates, the VFD will decrease the pump&amp;rsquo;s output power to avoid excessive water pressure.&lt;br&gt;
+VFD parameter settings: P0-29=00001, b0-00=Pressure transmitter range, b0-01=Set pressure, b0-02=Sleep pressure, b0-03=Wake-up pressure;&lt;br&gt;
+Example: If the pressure transmitter range is 1MPA, b0-00=10, if the range is 1.6MPA, b0-00=16.&lt;br&gt;
+The upper line displays the set pressure, and the lower line displays the pressure transmitter feedback pressure. Adjust the set pressure using the 🔼/🔽 keys on the panel, with pressure displayed in kilograms. The upper line can switch between displaying bus voltage, current, frequency, set pressure, and feedback pressure using the ▶️ key.&lt;br&gt;
+🌟Note 1: After setting P0-29=00001, the default is external terminal operation. To start from the panel, set P0-02=0.&lt;br&gt;
+🌟Note 2: Settings for b0-02 and b0-03 are relative to b0-01 as a percentage.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt6.jpg&#34; title=&#34;SKF8000系列0.75~37KW矢量变频器外接压力传感器-简单恒压供水接线图&#34; alt=&#34;SKF8000系列矢量变频器外接压力传感器-简单恒压供水接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75~37KW矢量变频器外接压力传感器-简单恒压供水接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt6.jpg&#34; title=&#34;Wiring Diagram for External Pressure Sensor Connection - Simple Constant Pressure Water Supply of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&#34; alt=&#34;Wiring Diagram for External Pressure Sensor Connection - Simple Constant Pressure Water Supply of SKF8000 Series Vector Variable Frequency Drives&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Wiring Diagram for External Pressure Sensor Connection - Simple Constant Pressure Water Supply of SKF8000 Series 0.75~37KW Vector Variable Frequency Drives&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：变频器作为恒力供水系统的核心，能够实时监测水压变化，并根据需求智能调节水泵的转速。当多个用户同时使用水源时，变频器会自动增加水泵的输出功率，保持稳定的水压；而在使用较小的水流量时，变频器则会降低水泵的输出功率，避免过高的水压。&lt;br&gt;
-变频器参数设置：P0-29=00001，b0-00=压力变送器量程，b0-01=设定压力，b0-02=睡眠压力，b0-03=唤醒压力;&lt;br&gt;
-举例：如压力变送器量程为1MPA，b0-00=10，如量程为1.6MPA，b0-00=16。&lt;br&gt;
-上行显示设定压力，下行显示压力变送器反馈压力。改变设定压力通过面板增加🔼/减少🔽键调整，显示压力单位为公斤。上行可通过▶️键切换显示母线电压，电流，频率，设定压力，反馈压力。&lt;br&gt;
-🌟备注1：以上设置为P0-29=00001后默认外部端子运行，如需面板启动，要设置P0-02=0。&lt;br&gt;
-🌟备注2：b0-02和b0-03设置是相对b0-01的百分比。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;45~720KW变频器接线图&lt;span class=&#34;absolute -mt-20&#34; id=&#34;45720kw变频器接线图&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#45720kw%e5%8f%98%e9%a2%91%e5%99%a8%e6%8e%a5%e7%ba%bf%e5%9b%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt7.jpg&#34; title=&#34;SKF8000系列45~720KW矢量变频器外接电位器接线图&#34; alt=&#34;SKF8000系列矢量变频器外接电位器接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列45~720KW矢量变频器外接电位器接线图&lt;/figcaption&gt;
+Explanation: The VFD serves as the core of the constant pressure water supply system, able to monitor water pressure changes in real time and intelligently adjust the pump speed according to demand. When multiple users are using the water source simultaneously, the VFD will automatically increase the pump&amp;rsquo;s output power to maintain stable water pressure; while using smaller water flow rates, the VFD will decrease the pump&amp;rsquo;s output power to avoid excessive water pressure.&lt;br&gt;
+VFD parameter settings: P0-29=00001, b0-00=Pressure transmitter range, b0-01=Set pressure, b0-02=Sleep pressure, b0-03=Wake-up pressure;&lt;br&gt;
+Example: If the pressure transmitter range is 1MPA, b0-00=10, if the range is 1.6MPA, b0-00=16.&lt;br&gt;
+The upper line displays the set pressure, and the lower line displays the pressure transmitter feedback pressure. Adjust the set pressure using the 🔼/🔽 keys on the panel, with pressure displayed in kilograms. The upper line can switch between displaying bus voltage, current, frequency, set pressure, and feedback pressure using the ▶️ key.&lt;br&gt;
+🌟Note 1: After setting P0-29=00001, the default is external terminal operation. To start from the panel, set P0-02=0.&lt;br&gt;
+🌟Note 2: Settings for b0-02 and b0-03 are relative to b0-01 as a percentage.&lt;/p&gt;
+&lt;h2&gt;45~720KW Variable Frequency Drive Wiring Diagram&lt;span class=&#34;absolute -mt-20&#34; id=&#34;45720kw-variable-frequency-drive-wiring-diagram&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#45720kw-variable-frequency-drive-wiring-diagram&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt7.jpg&#34; title=&#34;External Potentiometer Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;External Potentiometer Wiring Diagram for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;External Potentiometer Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt8.jpg&#34; title=&#34;SKF8000系列45~720KW矢量变频器外接按钮启动停止接线图&#34; alt=&#34;SKF8000系列矢量变频器外接按钮启动停止接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列45~720KW矢量变频器外接按钮启动停止接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt8.jpg&#34; title=&#34;Start-Stop Button Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;Start-Stop Button Wiring Diagram for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Start-Stop Button Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：按下绿色按钮，变频器启动；按下红色停止按钮，变频器停止；&lt;br&gt;
-变频器参数设置：P0-02=1;P4-02=3;P4-11=2&lt;/p&gt;
+Explanation: Pressing the green button starts the VFD; pressing the red stop button stops the VFD.&lt;br&gt;
+VFD Parameter Settings: P0-02=1; P4-02=3; P4-11=2&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt9.jpg&#34; title=&#34;SKF8000系列45~720KW矢量变频器外接三档开关正反转接线图&#34; alt=&#34;SKF8000系列矢量变频器外接三档开关正反转接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列45~720KW矢量变频器外接三档开关正反转接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt9.jpg&#34; title=&#34;Forward-Reverse Switch Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;Forward-Reverse Switch Wiring Diagram for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Forward-Reverse Switch Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：三档两常开旋钮，打到左边电机正转，打到中间电机停止，打到右边电机反转。&lt;br&gt;
-变频器参数设置：P0-02=1&lt;/p&gt;
+Explanation: Three-position toggle switch: Left position for motor forward, middle position for motor stop, right position for motor reverse.&lt;br&gt;
+VFD Parameter Settings: P0-02=1&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt11.jpg&#34; title=&#34;SKF8000系列矢量45~720KW变频器外接通断信号接线图&#34; alt=&#34;SKF8000系列矢量变频器外接通断信号接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列矢量45~720KW变频器外接通断信号接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt11.jpg&#34; title=&#34;On-Off Signal Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;On-Off Signal Wiring Diagram for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;On-Off Signal Wiring Diagram for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：X1端子和COM端子接通变频器启动；X1端子和COM端子断开变频器停止；来电直启，断电停机，直接COM和X1短接。&lt;br&gt;
-变频器参数设置：P0-02=1&lt;/p&gt;
+Explanation: Connecting X1 terminal to COM terminal starts the VFD; disconnecting X1 terminal from COM terminal stops the VFD; direct power-on starts, power-off stops, directly short COM and X1 terminals.&lt;br&gt;
+VFD Parameter Settings: P0-02=1&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt10.jpg&#34; title=&#34;SKF8000系列45~720KW矢量变频器外接远传压力表-简单恒压供水接线图&#34; alt=&#34;SKF8000系列矢量变频器外接远传压力表-简单恒压供水接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列45~720KW矢量变频器外接远传压力表-简单恒压供水接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt10.jpg&#34; title=&#34;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Transmitter for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Transmitter for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Transmitter for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：变频器作为恒压供水系统的核心，能够实时监测水压变化，并根据需求智能调节水泵的转速。当多个用户同时使用水源时，变频器会自动增加水泵的输出功率，保持稳定的水压；而在使用较小的水流量时，变频器则会降低水泵的输出功率，避免过高的水压。&lt;br&gt;
-变频器参数设置：P0-29=00001，b0-00=压力表量程，b0-01=设定压力，b0-02=睡眠压力，b0-03=唤醒压力;&lt;br&gt;
-举例：如远传压力表量程为1MPA，b0-00=10，如量程为1.6MPA，b0-00=16。&lt;br&gt;
-上行显示设定压力，下行显示压力表反馈压力。改变设定压力通过面板增加🔼/减少🔽键调整，显示压力单位为公斤。上行可通过▶️键切换显示母线电压，电流，频率，设定压力，反馈压力。&lt;br&gt;
-🌟备注1：以上设置为P0-29=00001后默认外部端子运行，如需面板启动，要设置P0-02=0。&lt;br&gt;
-🌟备注2：b0-02和b0-03设置是相对b0-01的百分比。&lt;/p&gt;
+Explanation: The VFD serves as the core of the constant pressure water supply system, capable of monitoring water pressure changes in real-time and intelligently adjusting the pump speed according to demand. When multiple users are simultaneously using the water source, the VFD automatically increases the pump output power to maintain stable water pressure; whereas when a smaller water flow rate is used, the VFD reduces the pump output power to avoid excessive water pressure.&lt;br&gt;
+VFD Parameter Settings: P0-29=00001, b0-00=Pressure transmitter range, b0-01=Set pressure, b0-02=Sleep pressure, b0-03=Wake-up pressure;&lt;br&gt;
+Example: If the pressure transmitter range is 1MPA, b0-00=10, if the range is 1.6MPA, b0-00=16.&lt;br&gt;
+The upper line displays the set pressure, and the lower line displays the pressure feedback from the pressure transmitter. Adjusting the set pressure is done through the panel&amp;rsquo;s increase🔼/decrease🔽 keys, with the pressure displayed in kilograms. The upper line can be toggled to display bus voltage, current, frequency, set pressure, and feedback pressure using the ▶️ key.&lt;br&gt;
+🌟 Note 1: After setting P0-29=00001, external terminal operation is the default; to enable panel startup, set P0-02=0.&lt;br&gt;
+🌟 Note 2: Settings for b0-02 and b0-03 are percentages relative to b0-01.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt12.jpg&#34; title=&#34;SKF8000系列45~720KW矢量变频器外接压力传感器-简单恒压供水接线图&#34; alt=&#34;SKF8000系列矢量变频器外接压力传感器-简单恒压供水接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列45~720KW矢量变频器外接压力传感器-简单恒压供水接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jxt12.jpg&#34; title=&#34;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Sensor for SKF8000 Series 45~720KW Vector Variable Frequency Drive&#34; alt=&#34;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Sensor for SKF8000 Series Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Simple Constant Pressure Water Supply Wiring Diagram with External Pressure Sensor for SKF8000 Series 45~720KW Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;br&gt;
-说明：变频器作为供水系统的核心，能够实时监测水压变化，并根据需求智能调节水泵的转速。当多个用户同时使用水源时，变频器会自动增加水泵的输出功率，保持稳定的水压；而在使用较小的水流量时，变频器则会降低水泵的输出功率，避免过高的水压。&lt;br&gt;
-变频器参数设置：P0-29=00001，b0-00=压力变送器量程，b0-01=设定压力，b0-02=睡眠压力，b0-03=唤醒压力;&lt;br&gt;
-举例：如压力变送器量程为1MPA，b0-00=10，如量程为1.6MPA，b0-00=16。&lt;br&gt;
-上行显示设定压力，下行显示压力变送器反馈压力。改变设定压力通过面板增加🔼/减少🔽键调整，显示压力单位为公斤。上行可通过▶️键切换显示母线电压，电流，频率，设定压力，反馈压力。&lt;br&gt;
-🌟备注1：以上设置为P0-29=00001后默认外部端子运行，如需面板启动，要设置P0-02=0。&lt;br&gt;
-🌟备注2：b0-02和b0-03设置是相对b0-01的百分比。&lt;/p&gt;
+Explanation: The VFD serves as the core of the water supply system, capable of monitoring water pressure changes in real-time and intelligently adjusting the pump speed according to demand. When multiple users are simultaneously using the water source, the VFD automatically increases the pump output power to maintain stable water pressure; whereas when a smaller water flow rate is used, the VFD reduces the pump output power to avoid excessive water pressure.&lt;br&gt;
+VFD Parameter Settings: P0-29=00001, b0-00=Pressure sensor range, b0-01=Set pressure, b0-02=Sleep pressure, b0-03=Wake-up pressure;&lt;br&gt;
+Example: If the pressure sensor range is 1MPA, b0-00=10, if the range is 1.6MPA, b0-00=16.&lt;br&gt;
+The upper line displays the set pressure, and the lower line displays the pressure feedback from the pressure sensor. Adjusting the set pressure is done through the panel&amp;rsquo;s increase🔼/decrease🔽 keys, with the pressure displayed in kilograms. The upper line can be toggled to display bus voltage, current, frequency, set pressure, and feedback pressure using the ▶️ key.&lt;br&gt;
+🌟 Note 1: After setting P0-29=00001, external terminal operation is the default; to enable panel startup, set P0-02=0.&lt;br&gt;
+🌟 Note 2: Settings for b0-02 and b0-03 are percentages relative to b0-01.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/yyyb.jpg&#34; title=&#34;SKF8000系列高性能通用矢量变频器：一用一备接线图&#34; alt=&#34;SKF8000系列高性能通用矢量变频器一用一备接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列高性能通用矢量变频器：一用一备接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/yyyb.jpg&#34; title=&#34;One-to-One Backup Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&#34; alt=&#34;One-to-One Backup Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;One-to-One Backup Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/yblg.jpg&#34; title=&#34;SKF8000系列高性能通用矢量变频器：一变频两工频接线图&#34; alt=&#34;SKF8000系列高性能通用矢量变频器一变频两工频接线图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列高性能通用矢量变频器：一变频两工频接线图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/yblg.jpg&#34; title=&#34;One Frequency Conversion with Two Utility Frequency Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&#34; alt=&#34;One Frequency Conversion with Two Utility Frequency Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;One Frequency Conversion with Two Utility Frequency Wiring Diagram for SKF8000 Series High-Performance Universal Vector Variable Frequency Drive&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
-&lt;h2&gt;SKF8000系列通用变频器多段速指令功能说明&lt;span class=&#34;absolute -mt-20&#34; id=&#34;skf8000系列通用变频器多段速指令功能说明&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#skf8000%e7%b3%bb%e5%88%97%e9%80%9a%e7%94%a8%e5%8f%98%e9%a2%91%e5%99%a8%e5%a4%9a%e6%ae%b5%e9%80%9f%e6%8c%87%e4%bb%a4%e5%8a%9f%e8%83%bd%e8%af%b4%e6%98%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;4个多段速指令端子，可以组合为16种状态，这16种状态对应16个指令设定值。具体如下表所示：&lt;/p&gt;
+&lt;h2&gt;Function Description of Multi-speed Command for SKF8000 Series General Purpose Variable Frequency Drive&lt;span class=&#34;absolute -mt-20&#34; id=&#34;function-description-of-multi-speed-command-for-skf8000-series-general-purpose-variable-frequency-drive&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#function-description-of-multi-speed-command-for-skf8000-series-general-purpose-variable-frequency-drive&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There are 4 multi-speed command terminals, which can be combined into 16 states, corresponding to 16 instruction set values. Specifically, as shown in the table below:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -324,8 +326,8 @@
 &lt;th style=&#34;text-align:center&#34;&gt;K3&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;K2&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;K1&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;指令设定&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;对应参数&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Instruction Set&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Corresponding Parameter&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -334,7 +336,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 0&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-00&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -342,7 +344,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 1&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-01&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -350,7 +352,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 2&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-02&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -358,7 +360,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 3&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-03&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -366,7 +368,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 4&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-04&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -374,7 +376,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 5&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-05&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -382,7 +384,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 6&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-06&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -390,7 +392,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 7&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-07&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -398,7 +400,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 8&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -406,7 +408,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 9&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-09&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -414,7 +416,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 10&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-10&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -422,7 +424,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 11&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-11&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -430,7 +432,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 12&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -438,7 +440,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 13&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-13&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -446,7 +448,7 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OFF&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定14&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 14&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-14&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -454,21 +456,22 @@
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;ON&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;多段指定15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Multi-speed 15&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;PC-15&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;当频率源选择为多段速时，功能码PC-00~PC-15的100%，对应PC-10(最大频率)&lt;/p&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+&lt;p&gt;When the frequency source is set to multi-speed, the function codes PC-00 to PC-15 correspond to 100%, with PC-10 (maximum frequency) corresponding to 100%.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 

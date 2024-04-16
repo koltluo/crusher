@@ -116,7 +116,7 @@
 &lt;/table&gt;
 &lt;h3&gt;8.1.5 CMD检验方式&lt;span class=&#34;absolute -mt-20&#34; id=&#34;815-cmd检验方式&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#815-cmd%e6%a3%80%e9%aa%8c%e6%96%b9%e5%bc%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;校验方式CRC校验方式:CRC(Cyclical Redundancy Check)使用RTU帧格式,消息包括了基于CRC 方法的错误检测域。CRC域检测了整个消息的内容。CRC域是两个字节,包含16位的二进制值。它由传输设备 计算后加入到消息中。接收设备重新计算收到消息CRC,并与接收到的CRC域中的值比较,如果两个CRC值不 相等,则说明传输有错误。 &lt;br&gt;
-CRC是先存入OxFFFF,然后调用一个过程将消息中连续的8位字节与当前寄存器中的值进行处理。仅每 个字符中的8Bit数据对CRC有效,起始位和停止位以及奇偶校验位均无效。&lt;br&gt;
+CRC是先存入0xFFFF,然后调用一个过程将消息中连续的8位字节与当前寄存器中的值进行处理。仅每 个字符中的8Bit数据对CRC有效,起始位和停止位以及奇偶校验位均无效。&lt;br&gt;
 CRC产生过程中,每个8位字符都单独和寄存器内容相异或(XOR),结果向最低有效位方向移动,最高有 效位以0填充。LSB被提取出来检测,如果LSB为1,寄存器单独和预置的值相异或,如果LSB为0,则不进行。 整个过程要重复8次。在最后一位(第8位)完成后,下一个8位字节又单独和寄存器的当前值相异或。最终寄存器中的值,是消息中所有的字节都执行之后的CRC值。 CRC添加到消息中时,低字节先加入,然后高字节。CRC简单函数如下:&lt;/p&gt;
 &lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code&gt;unsigned int CRC16_CHK(unsigned char *data, unsigned char length)
 {

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Global Expert in Mining Crushing and Electrical Control – 第三章 安装</title>
+    <title>Global Expert in Mining Crushing and Electrical Control – Chapter 3 Mounting</title>
     <link>https://www.senkuogroup.com/docs/mounting/</link>
-    <description>Recent content in 第三章 安装 on Global Expert in Mining Crushing and Electrical Control</description>
+    <description>Recent content in Chapter 3 Mounting on Global Expert in Mining Crushing and Electrical Control</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -15,7 +15,7 @@
     
     
     <item>
-      <title>3.1 整机结构尺寸图</title>
+      <title>3.1 Whole Machine Structure Dimension Diagram</title>
       <link>https://www.senkuogroup.com/docs/mounting/overall-equipment-dimensional-diagram/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -24,19 +24,19 @@
         
         
         &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/jgt.jpg&#34; title=&#34;SKF8000系列矢量变频器外形及安装尺寸图&#34; alt=&#34;键盘实物图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列矢量变频器外形及安装尺寸图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/jgt.jpg&#34; title=&#34;Outline and Installation Dimensions of SKF8000 Series Vector Frequency Converter&#34; alt=&#34;Outline and Installation Dimensions of SKF8000 Series Vector Frequency Converter&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Outline and Installation Dimensions of SKF8000 Series Vector Frequency Converter&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;型号&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;H(mm)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;W(mm)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;D(mm)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;H1(mm)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;W1(mm)&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;开孔   d(mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Model&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Height (mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Width (mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Depth (mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Height 1 (mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Width 1 (mm)&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Hole Diameter (mm)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -357,15 +357,17 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+&lt;h3&gt;NEXT&lt;span class=&#34;absolute -mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -373,7 +375,7 @@
     </item>
     
     <item>
-      <title>3.2 主回路端子及功能</title>
+      <title>3.2 Main Circuit Terminals and Their Functions</title>
       <link>https://www.senkuogroup.com/docs/mounting/main-circuit-terminals-and-functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -382,58 +384,60 @@
         
         
         &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl1.jpg&#34; title=&#34;SKF8000系列0.75KW-22KW变频器主回路端子示意图&#34; alt=&#34;0.75KW-37KW变频器主回路端子示意图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列0.75KW-22KW变频器主回路端子示意图&lt;/figcaption&gt;
-  &lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl2.jpg&#34; title=&#34;SKF8000系列30KW-720KW变频器主回路端子示意图&#34; alt=&#34;45KW-720KW变频器主回路端子示意图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列30KW-720KW变频器主回路端子示意图&lt;/figcaption&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl1.jpg&#34; title=&#34;Main Circuit Terminal Diagram for SKF8000 series 0.75KW-22KW Frequency Converters&#34; alt=&#34;Main Circuit Terminal Diagram for 0.75KW-37KW Frequency Converters&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Main Circuit Terminal Diagram for SKF8000 series 0.75KW-22KW Frequency Converters&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/zhl2.jpg&#34; title=&#34;Main Circuit Terminal Diagram for SKF8000 series 30KW-720KW Frequency Converters&#34; alt=&#34;Main Circuit Terminal Diagram for 45KW-720KW Frequency Converters&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Main Circuit Terminal Diagram for SKF8000 series 30KW-720KW Frequency Converters&lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;端子标记&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;说明&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Terminal Label&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Name&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;R、S、T&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;三相电源输入端子&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;三相交流电源输入连接端子&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R, S, T&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Three-phase Power Supply Input Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Three-phase AC power supply input connection terminals&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;(+)、(-)&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;直流母线正、负端子&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;共直流母线输入端子（30KW及以上外置制动单元的连接端子）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(+), (-)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;DC Bus Positive and Negative Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Common DC bus input terminals (connection terminals for external braking units of 30KW and above)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;(+)、PB&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;制动电阻连接端子&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;22KW及以上制动电阻连接端子&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;(+), PB&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Braking Resistor Connection Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Connection terminals for braking resistors of 22KW and above&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;P、(+)&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;外置电抗器连接端子&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;外置直流电抗器连接端子&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;P, (+)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;External Reactor Connection Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Connection terminals for external DC reactors&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;⏚&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;接地端子&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;连接大地&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Ground Terminal&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Connection to earth ground&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+&lt;h3&gt;NEXT&lt;span class=&#34;absolute -mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -441,7 +445,7 @@
     </item>
     
     <item>
-      <title>3.3 控制回路端子及功能</title>
+      <title>3.3 Control Circuit Terminal and Function</title>
       <link>https://www.senkuogroup.com/docs/mounting/control-circuit-terminals-and-functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -449,19 +453,18 @@
       <description>
         
         
-        &lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://www.senkuogroup.com/images/kzhl.jpg&#34; title=&#34;SKF8000系列通用变频器控制回路端子示意图&#34; alt=&#34;变频器控制回路端子示意图&#34; loading=&#34;lazy&#34; /&gt;
-    &lt;figcaption&gt;SKF8000系列通用变频器控制回路端子示意图&lt;/figcaption&gt;
-  &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+        &lt;p&gt;The illustration below shows the terminal diagram for the control circuit of the SKF8000 series general-purpose inverter.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.senkuogroup.com/images/kzhl.jpg&#34; alt=&#34;Inverter Control Circuit Terminal Diagram&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
@@ -469,7 +472,7 @@
     </item>
     
     <item>
-      <title>3.4 控制端子及功能</title>
+      <title>3.4 Control terminal and function</title>
       <link>https://www.senkuogroup.com/docs/mounting/control-terminals-and-functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -480,108 +483,520 @@
         &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;类别&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;端子符号&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;端子名称&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;功能说明&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Category&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Terminal Symbol&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Terminal Name&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Function Description&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;电源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Power&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;+10V-GND&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;+10V电源&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;向外提供+10V电源，最大输出电流：20mA，一般用作外接电位器工作电源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+10V Power&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Provides +10V power externally, maximum output current: 20mA, typically used as the operating power supply for external potentiometers&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;电源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Power&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;+24V-COM&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;+24V电源&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;向外提供+24V电源，最大输出电流：150mA，一般用作数字输入输出端子工作电源和外接传感器电源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;+24V Power&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Provides +24V power externally, maximum output current: 150mA, generally used as the power supply for digital input-output terminals and external sensor power&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;电源&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Power&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;OP&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;外部电源输入端子&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;通过控制板上的连接片选择与+24V或COM连接（出厂默认与+24V连接） &lt;/br&gt;当利用外部信号驱动DI1~DI6时，OP需要与外部电源连接，且去掉此处OP~24V端子之间的短路连接片&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;External Power Input Terminal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Connects to +24V or COM through the connection piece on the control board (factory default connection to +24V) &lt;/br&gt;When driving DI1~DI6 with external signals, OP needs to be connected to an external power source, and the short-circuit connection piece between OP and 24V should be removed&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输入&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Input&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;AI1-GND&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟量输入端子1&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;1、输入范围：DC0V~10V/0mA，由通过参数P4-37选择电压或电流输入。&lt;/br&gt;2、输入阻抗：电压输入时22kΩ，电流输入时500Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Input Terminal 1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Input Range: DC 0V~10V/0mA, selected by parameter P4-37 for voltage or current input. &lt;/br&gt;2. Input Impedance: 22kΩ for voltage input, 500Ω for current input&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输入&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Input&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;AI2-GND&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟量输入端子2&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;1、输入范围：DC0V~10V/0mA，由通过参数P4-37选择电压或电流输入。&lt;/br&gt;2、输入阻抗：电压输入时22kΩ，电流输入时500Ω&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Input Terminal 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Input Range: DC 0V~10V/0mA, selected by parameter P4-37 for voltage or current input. &lt;/br&gt;2. Input Impedance: 22kΩ for voltage input, 500Ω for current input&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数字输入&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;X1	、X2、X3、X4、X5、X6、X7&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数字输入1、2、3、4、5、6、7&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;1、光耦隔离&lt;/br&gt;2、输入阻抗：4kΩ&lt;/br&gt;电平输入时电压范围：9V~30V&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Digital Input&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;X1, X2, X3, X4, X5, X6, X7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Digital Input 1, 2, 3, 4, 5, 6, 7&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Opto-isolation &lt;/br&gt;2. Input Impedance: 4kΩ &lt;/br&gt;Input Voltage Range: 9V~30V&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Output&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;AO1-GND&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输出1&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;AO1，AO2由控制板J3、J2跳线选择电压或电流输出&lt;/br&gt;输出电压范围：0V~10V&lt;/br&gt;输出电流范围：0mA~20mA&lt;/br&gt;出厂默认为电压输出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Output 1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;AO1, AO2 are selected for voltage or current output by jumpers J3 and J2 on the control board &lt;/br&gt;Output Voltage Range: 0V~10V &lt;/br&gt;Output Current Range: 0mA~20mA &lt;/br&gt;Factory default is voltage output&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输出&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;AO2-GND（18.5KW以下和Y1共用1个端子，通过跳线选择输出）&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;模拟输出2&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;AO1，AO2由控制板J3、J2跳线选择电压或电流输出&lt;/br&gt;输出电压范围：0V~10V&lt;/br&gt;输出电流范围：0mA~20mA&lt;/br&gt;出厂默认为电压输出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Output&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AO2-GND (shared with Y1 for models below 18.5kW, selected by jumpers)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Analog Output 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;AO1, AO2 are selected for voltage or current output by jumpers J3 and J2 on the control board &lt;/br&gt;Output Voltage Range: 0V~10V &lt;/br&gt;Output Current Range: 0mA~20mA &lt;/br&gt;Factory default is voltage output&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数字输出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Digital Output&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;HD0&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;高速脉冲输出集电极开路输出&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;1、光耦隔离，双极性开路集电极输出。&lt;/br&gt;2、输出电压范围：0V~24V&lt;/br&gt;输出电流范围：0mA~50mA&lt;/br&gt;（备注：18.5KW及以下Y1功能可通过跳线切换为模拟量输出）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;High-Speed Pulse Output Collector-Emitter Open Circuit Output&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Opto-isolation, bipolar open circuit collector output. &lt;/br&gt;2. Output Voltage Range: 0V~24V &lt;/br&gt;Output Current Range: 0mA~50mA &lt;/br&gt;(Note: For models of 18.5kW and below, Y1 function can be switched to analog output by jumpers)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数字输出&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Digital Output&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;Y1&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;数字输出1&lt;/br&gt; 模拟电压输出2&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;1、光耦隔离，双极性开路集电极输出。&lt;/br&gt;2、输出电压范围：0V~24V&lt;/br&gt;输出电流范围：0mA~50mA&lt;/br&gt;（备注：18.5KW及以下Y1功能可通过跳线切换为模拟量输出）&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Digital Output 1 &lt;/br&gt; Analog Voltage Output 2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. Opto-isolation, bipolar open circuit collector output. &lt;/br&gt;2. Output Voltage Range: 0V~24V &lt;/br&gt;Output Current Range: 0mA~50mA &lt;/br&gt;(Note: For models of 18.5kW and below, Y1 function can be switched to analog output by jumpers)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;继电器输出&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1B&lt;/br&gt;K2A-K2B&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;常闭端子&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;触点驱动能力：&lt;/br&gt;AC 250V，3A；DC 30V ，1A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Relay Output&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1B, K2A-K2B&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Normally Closed Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Contact Drive Capacity: &lt;/br&gt;AC 250V, 3A; DC 30V, 1A&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;继电器输出&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1C&lt;/br&gt;K2A-K2C&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;常开端子&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;触点驱动能力：&lt;/br&gt;AC 250V，3A；DC 30V ，1A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Relay Output&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;K1A-K1C, K2A-K2C&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Normally Open Terminals&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Contact Drive Capacity: &lt;/br&gt;AC 250V, 3A; DC 30V, 1A&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;RS485通讯&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS485 Communication&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;RS+&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;485通讯端子正&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;RS485差分信号正端&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS485 Communication Terminal Positive&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;RS485 Differential Signal Positive Terminal&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;RS485通讯&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS485 Communication&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;RS-&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;485通讯端子负&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;RS485差分信号负端&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS485 Communication Terminal Negative&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;RS485 Differential Signal Negative Terminal&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;探索这些文档以便了解更多内容：&lt;/p&gt;
+&lt;h3&gt;NEXT&lt;span class=&#34;absolute -mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
 
 
 &lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;立即购买高性能矢量变频器&lt;/span&gt;&lt;/a&gt;
-
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
   &lt;a
-    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;变频器常见问题解答&lt;/span&gt;&lt;/a&gt;
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.5 Mechanical Installation</title>
+      <link>https://www.senkuogroup.com/docs/mounting/mechanical-installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/docs/mounting/mechanical-installation/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;3.5.1 Installation Environment:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;351-installation-environment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#351-installation-environment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Ambient Temperature: The ambient temperature greatly affects the lifespan of the frequency converter. The operating environment temperature of the frequency converter should not exceed the allowable temperature range (-10°C to 50°C).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install the frequency converter on the surface of a flame-retardant object with sufficient space around it for heat dissipation. The frequency converter generates a large amount of heat during operation. Use screws to mount it vertically on the mounting bracket.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Install it in a place where vibration is minimal. Vibration should not exceed 0.6G. Pay special attention to staying away from equipment such as punches.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avoid installation in areas exposed to direct sunlight, moisture, or water droplets.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avoid installation in places where there are corrosive, flammable, or explosive gases in the air.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Avoid installation in places with oil stains, excessive dust, or metal dust.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;https://www.senkuogroup.com/images/azt.jpg&#34; title=&#34;Frequency Converter Installation Schematic Diagram&#34; alt=&#34;Frequency Converter Installation Schematic Diagram&#34; loading=&#34;lazy&#34; /&gt;
+    &lt;figcaption&gt;Frequency Converter Installation Schematic Diagram&lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Single-unit Installation: When the power of the frequency converter is not greater than 22 kW, consideration of dimension A is optional. When it exceeds 22 kW, A should be greater than 50mm.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Vertical Installation: When installing the frequency converter vertically, please install the depicted heat insulation baffle according to the diagram.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Frequency Converter Power&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Installation Dimension A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Installation Dimension B&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≤15 kW&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Optional&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥100 mm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5 kW – 30 kW&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥50 mm&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥200 mm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥37 kW&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥50 mm&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;≥300 mm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;3.5.2 Mechanical Installation Considerations&lt;span class=&#34;absolute -mt-20&#34; id=&#34;352-mechanical-installation-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#352-mechanical-installation-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mechanical installation primarily concerns heat dissipation. Therefore, please consider the following points:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Please install the frequency converter vertically to facilitate upward heat dissipation. However, do not install it upside down. If there are multiple frequency converters in the cabinet, it is best to install them side by side. In cases where vertical installation is necessary, please refer to the schematic diagram for the installation of the heat insulation baffle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Follow the installation schematic diagram to ensure sufficient space for heat dissipation of the frequency converter. However, when arranging the space, consider the heat dissipation of other components inside the cabinet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The installation bracket must be made of flame-retardant material.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For applications with metal dust, it is recommended to install the frequency converter outside the heat sink cabinet. In this case, the fully sealed cabinet space should be as large as possible.&amp;quot;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;NEXT&lt;span class=&#34;absolute -mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>3.6 Peripheral Electrical Component Selection Guide for Variable Frequency Drives</title>
+      <link>https://www.senkuogroup.com/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.senkuogroup.com/docs/mounting/peripheral-electrical-component-selection-guide-for-variable-frequency-drives/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;Inverter Peripheral Electrical Component Selection Table&lt;span class=&#34;absolute -mt-20&#34; id=&#34;inverter-peripheral-electrical-component-selection-table&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#inverter-peripheral-electrical-component-selection-table&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Inverter Power&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Circuit Breaker (MCCB) &lt;/br&gt; A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Recommended Contactor &lt;/br&gt; A&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Recommended Input Side Main Circuit Wire mm²&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Recommended Output Side Main Circuit Wire mm²&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Recommended Control Circuit Wire mm²&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.4KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.7KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2KWT2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;0.7KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.2KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.7KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;32&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.0&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18.5KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;63&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;37KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;55KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;75KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;50&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;90KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;70&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;110KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;350&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;120&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;120&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;132KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;160KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;200KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;220KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;250KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;280KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;185*2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;315KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;355KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;800&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;400KWT4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1000&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;150*4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
+  &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+      Note: This selection table provides guidance data. Users can choose electrical components of different sizes according to actual conditions, but they should not be smaller than the recommended values in the table.
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3&gt;NEXT&lt;span class=&#34;absolute -mt-20&#34; id=&#34;next&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#next&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Explore these documents to learn more.&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;div class=&#34;hextra-cards mt-4 gap-4 grid not-prose&#34; style=&#34;--rows: 3;&#34;&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://item.taobao.com/item.htm?ft=t&amp;amp;id=771441899583&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z&#34;/&gt;&lt;/svg&gt;Purchase high-performance vector frequency drives now.&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/docs/table-of-contents/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Table of Contents for the Variable Frequency Drive User Manual&lt;/span&gt;&lt;/a&gt;
+  &lt;a
+    class=&#34;hextra-card group flex flex-col justify-start overflow-hidden rounded-lg border border-gray-200 text-current no-underline dark:shadow-none hover:shadow-gray-100 dark:hover:shadow-none shadow-gray-100 active:shadow-sm active:shadow-gray-200 transition-all duration-200 hover:border-gray-300 bg-transparent shadow-sm dark:border-neutral-800 hover:bg-slate-50 hover:shadow-md dark:hover:border-neutral-700 dark:hover:bg-neutral-900&#34;href=&#34;https://www.senkuogroup.com/blog/faq/&#34; &gt;&lt;span class=&#34;flex font-semibold items-start gap-2 p-4 text-gray-700 hover:text-gray-900 dark:text-neutral-200 dark:hover:text-neutral-50&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z&#34;/&gt;&lt;/svg&gt;Frequently Asked Questions (FAQs) about Variable Frequency Drives&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 
